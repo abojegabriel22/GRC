@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+.genesis{
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    background-color: #ffd700;
+    background-image: linear-gradient(45deg, #b8860b, #f3ec78);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+.lines{
+    font-weight: 700;
+    border-top: 2px solid#ffd700;
+    border-bottom: 2px solid #ffd700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row{
+    margin-top: 50px;
+}
+.vertical{
+    box-shadow: 3px 5px 40px #b8860b;
+    height: 100%;
+    border-left: 7px solid;
+   border-image: linear-gradient(180deg, #b8860b, #ffd700);
+    border-image-slice: 1;
+}
+.container2{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    text-align: center;
+}

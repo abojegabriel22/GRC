@@ -1,7 +1,7 @@
 body{
     margin: 0;
     background-color: black;
-    
+
 }
 .lines{
     font-weight: 700;
@@ -50,24 +50,4 @@ img{
 .center{
     text-align: center;
     margin-top: 20px;
-}
-
-section.lower{
-    margin-top: 50px;
-}
-.center{
-    text-align: center;
-    margin-top: 20px;
-}
-.footer-wealth{
-    float: left;
-}
-h1.genesis{
-    font-weight: 700;
-}
-.half-width{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
 }
