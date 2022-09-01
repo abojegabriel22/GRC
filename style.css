@@ -1,15 +1,14 @@
 body{
     margin: 0;
+    background-color: black;
+    
 }
-
-.half-width{
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding-left: 2%;
-}
-h1.genesis{
+.lines{
     font-weight: 700;
+    border-top: 2px solid#ffd700;
+    border-bottom: 2px solid #ffd700;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .genesis{
     font-family: 'Poppins', sans-serif;
@@ -24,6 +23,35 @@ h1.genesis{
     -moz-background-clip: text;
     -moz-text-fill-color: transparent;
 }
+.first{
+    margin-top: 20px;
+}
+.lower{
+    background-color: black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.another{
+    padding-top: 40px;
+}
+.font{
+    font-size: 23px;
+}
+.space{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.space1{
+    margin-top: 40px;
+}
+.center{
+    text-align: center;
+    margin-top: 20px;
+}
+
 section.lower{
     margin-top: 50px;
 }
@@ -33,4 +61,13 @@ section.lower{
 }
 .footer-wealth{
     float: left;
+}
+h1.genesis{
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
